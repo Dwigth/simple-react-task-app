@@ -1,0 +1,5 @@
+@import "~bootswatch/dist/lumen/bootswatch";
+
+h1, p {
+  font-family: Lato;
+}
